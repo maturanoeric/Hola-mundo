@@ -4,4 +4,6 @@ Mi Primer Repositorio
 
 Me gustan los perros, :dog:
 
-:car:, :earth:
+:car:, 🌇:
+
+Mi perro se llama Ciro
